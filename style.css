@@ -5,14 +5,32 @@ nav {
     background-color: #090909;
 }
 
+
 #collapse12 {
     background-color: #e84c13;
 }
 
-#map {
+#fadein {
     display: none;
+    margin-top: 10%;
+}
+
+#map {
     margin-top: 5%;
 }
+
+#Analytics {
+    display: none;
+}
+
+#News {
+    display: none;
+}
+
+#crowdsourcing {
+    display: none;
+}
+
 #h31 {
     margin-top: 20%; 
     margin-left: 40%;
@@ -31,3 +49,4 @@ nav {
     font-size: 3rem;
     color: aliceblue;
 }
+
